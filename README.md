@@ -9,3 +9,6 @@ Thanks for taking the time to fix the site for us and of course, there are many 
 Your Stories
 ------
 1) The main.js file is being loaded but the script isn't executing.
+
+* Add transitions
+* Complete the Modal
